@@ -1,4 +1,4 @@
-![Header](https://github.com/Victor-Rochnyak/Victor-Rochnyak/blob/main/assets/%D0%98%D0%9B%D0%9B%D0%AE%D0%97%D0%98%D0%AF.jpg)
+![image](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+GO+IT+student+.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+.)](https://git.io/typing-svg)
@@ -17,4 +17,4 @@ Latest Youtube Video
 ![VSCODE](https://img.shields.io/badge/VSCode-1f425f?style=flat&logo=visualstudiocode&logoColor=fff)
 
 ### Follow me
-![Uploading ]
+
