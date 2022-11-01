@@ -1,4 +1,4 @@
-![image](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/width="700px"/giphy.gif)
+![image](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/Source:900 x 270 px/giphy.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+GO+IT+student+.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+.)](https://git.io/typing-svg)
