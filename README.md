@@ -18,4 +18,7 @@ Latest Youtube Video
 
 ### Follow me
 
+[![Telegram](https://img.shields.io/badge/-Telegram-004f76?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/Victor_Rochnyak)
+[![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
