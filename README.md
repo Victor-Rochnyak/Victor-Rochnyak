@@ -22,13 +22,9 @@ Latest Youtube Video
 [![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
+<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&theme=dracula)](https://github.com/Victor-Rochnyak/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact)](https://github.com/Victor-Rochnyak/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+</div>
