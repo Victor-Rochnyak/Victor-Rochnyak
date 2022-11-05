@@ -1,8 +1,6 @@
 .div{
     display:flex;
 }
-img{
-    max-width: 0;
+.markdown-body img{
     height: 183px;
-
 }
