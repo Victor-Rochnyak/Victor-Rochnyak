@@ -3,11 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+GO+IT+student+.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+.)](https://git.io/typing-svg)
 
-
-
 Latest Youtube Video
 
 ### Language and tools
+
 ![HTML5](https://img.shields.io/badge/-HTML-ec3e0e?style=flat&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-0f72b5?style=flat&logo=CSS3&logoColor=fff)
 ![SAAS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=fff)
@@ -22,9 +21,5 @@ Latest Youtube Video
 [![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
-<div srtyle= display:flex;>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&theme=dracula)](https://github.com/Victor-Rochnyak/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact)](https://github.com/Victor-Rochnyak/github-readme-stats)
-</div>
+| <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Victor-Rochnyak github stats" /></a> | <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
