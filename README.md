@@ -21,7 +21,7 @@ Latest Youtube Video
 [![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rochnyak&show_icons=true&locale=en&layout=compact" alt="victor-rochnyak" /></p>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rochnyak&show_icons=true&locale=en" alt="victor-rochnyak" /></p> |
+|<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rochnyak&show_icons=true&locale=en&layout=compact" alt="victor-rochnyak" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rochnyak&show_icons=true&locale=en" alt="victor-rochnyak" /></p> |
 | ------------- | ------------- |
 
 
