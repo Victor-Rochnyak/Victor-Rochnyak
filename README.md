@@ -23,3 +23,6 @@ Latest Youtube Video
 
 | <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rochnyak&show_icons=true&locale=en&layout=compact" alt="victor-rochnyak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rochnyak&show_icons=true&locale=en" alt="victor-rochnyak" /></p>
