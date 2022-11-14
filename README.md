@@ -21,7 +21,7 @@ Latest Youtube Video
 [![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&count_private=true&hide_border=true" align="left" />   |<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&hide_border=true&layout=compact" align="left" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&count_private=true&hide_border=true" align="left" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&hide_border=true&layout=compact" align="left" />|
 | ------------- | ------------- |
 
 
@@ -29,6 +29,6 @@ Latest Youtube Video
 
 
 
- <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="victor-rochnyak"/></a>
+<!--  <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="victor-rochnyak"/></a>
 
- <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a>  -->
