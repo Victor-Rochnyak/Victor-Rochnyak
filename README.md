@@ -21,13 +21,14 @@ Latest Youtube Video
 [![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
-|<a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  |<a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rochnyak&show_icons=true&locale=en&layout=compact" alt="victor-rochnyak" /></p>  |<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rochnyak&show_icons=true&locale=en" alt="victor-rochnyak" /></p> |
 | ------------- | ------------- |
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-rochnyak&show_icons=true&locale=en&layout=compact" alt="victor-rochnyak" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor-rochnyak&show_icons=true&locale=en" alt="victor-rochnyak" /></p>
 
+ 
 
+<a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 
+<a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a>
