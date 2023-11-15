@@ -21,5 +21,14 @@ Latest Youtube Video
 [![Instagram](https://img.shields.io/badge/-Instagram-141534?style=flat-square&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/victor_rochnyak/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a63bc?style=flat&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/Victor-Rochnyak/)
 
+<<<<<<< HEAD
 <!-- | <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- | -->
+=======
+|<img src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&count_private=fulse&hide_border=true" align="center" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&hide_border=true&layout=compact&theme=buefy" align="center" />|
+| ------------- | ------------- |
+
+<!--  <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Rochnyak&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="victor-rochnyak"/></a>
+
+ <a href="https://github.com/Victor-Rochnyak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rochnyak&layout=compact&theme=buefy&hide_border=true" /></a>  -->
+>>>>>>> 09b1d0f191ea6594477b8d04f3461280f54c5f2e
