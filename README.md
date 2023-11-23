@@ -20,6 +20,9 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a> 
 </div>  
+
+<br/> 
+
 ## Connect with me  
 <div align="">
 <a href="https://github.com/Victor-Rochnyak" target="_blank">
