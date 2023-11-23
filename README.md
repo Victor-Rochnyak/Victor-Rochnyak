@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello. My name is Viсtor. I am a full-stack web developer 👨‍💻
+### <div align="">Hello. My name is Viсtor. I am a full-stack web developer 👨‍💻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+GO+IT+student+.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile+.)](https://git.io/typing-svg)
 </div>  
